@@ -1,0 +1,35 @@
+Software testing:
+``````````````````
+ - To identify correctness and quality of the application
+
+ Ways to test:
+ ``````````````
+ -Manual
+ -Automation
+
+ When do we do automation testing?
+ ``````````````````````````````````
+ -After manual testing is passed
+ -When environment is stable
+ -Analyze our test suite and choose our automation tools
+
+ Automation tools:
+ ``````````````````
+ *Selenium               *UFT/QTP
+ *Cucumber               *Katalon Studio
+ *TestNG                 *Serenity
+
+   Levels of testing:
+``````````````````````
+-Unit testing
+-integration testing
+-System testing
+-Acceptance testing
+
+Types of software testing:
+```````````````````````````
+-Functional testing:
+  Anything on the user interface
+  (Smoke test, regression test, sanity check)
+-Non functional testing
+  (Performance testing Security testing)

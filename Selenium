@@ -1,0 +1,34 @@
+Selenium:
+``````````
+Set of tools which helps us to automate web applications. Its mainly used to perform functional testing.
+
+Selenium Components:
+`````````````````````
+Selenium IDE:
+Selenium RC
+Selenium Grid
+Selenium Webdriver (most widely used in companies)
+
+Selenium Webdriver:
+```````````````````
+Selenium WebDriver is a collection of open source APIs(we don't need to buy it) which are used to automate the testing of a web application.
+  Use: To automate web application testing to verify that it works as expected.
+It supports many browsers such as Firefox, Chrome, IE, and Safari.
+
+Advantage:
+-open source
+-OS independent
+-supports multiple languages (Ruby, java, c#, Python)
+-works with multiple different browsers
+
+Disadvantage of selenium webdriver:
+```````````````````````````````````
+-It supports Web based applications only (cannot test desktop applications).
+-No reliable Technical Support from anybody.
+-Limited support for image testing (cannot verify images)
+-Does not have inbuilt reporting feature
+-cannot test CAPTCHA/Barcodes
+  **CAPTCHA is a system or program that distinguishes human and machine input (to prevent spammers from using bots to generate hundreds of spam mail accounts)
+-No official guideline for how to use Selenium
+-Difficult to use, takes more time to create Test cases.
+-Difficult to Setup Test Environment when it compares to Vendor Tools like UFT, RFT, SilkTest etc.
